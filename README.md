@@ -44,9 +44,9 @@ Think of it as Tinder, but for finding a climbing partner — swipe through prof
 
 ```
 main.py                 — bot logic, handlers, DB, cron tasks (~17,500 lines)
-TEXTS.py                — UI texts for all 5 languages (menus, messages, prompts)
+TEXTS.py                — UI texts for all 4 languages (menus, messages, prompts)
 TEXT2.py                — extended texts (admin, moderation, payments, meetups)
-inline_texts.py         — button labels for all 5 languages
+inline_texts.py         — button labels for all 4 languages
 user_agreement_text.py  — user agreement / privacy policy
 requirements.txt        — Python dependencies
 .env.example            — required environment variables
