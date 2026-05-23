@@ -18,7 +18,7 @@ Think of it as Tinder, but for finding a climbing partner — swipe through prof
 - **Push notifications** — delayed like notifications (60s debounce), photo reminders (3-touch system with 45-day reset), daily meetup pushes at 17:00 local time
 - **Premium (Cragsy Boost)** — paid via Telegram Stars; enhanced visibility, advanced filters, founder badge
 - **Content moderation** — report system (abuse / spam / inappropriate photo), admin panel with ban/unblock, user search, broadcast tools
-- **5 languages** — Russian, English, Spanish, German, French — all UI texts, buttons, notifications
+- **4 languages** — Russian, English, Spanish, German — all UI texts, buttons, notifications
 
 ## Tech stack
 
