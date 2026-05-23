@@ -1,0 +1,11 @@
+python-telegram-bot==20.3
+python-dotenv
+requests
+httpx
+asyncpg
+psycopg2-binary
+pandas
+matplotlib
+pytimeparse
+nudenet
+transformers
